@@ -6,12 +6,12 @@
   },
   {
     "title": "Fast Iteration",
-    "description": "We strive to help customers from Day 1 by solving there immediate problems while building a scalable system for long run.",
+    "description": "We strive to help customers from Day 1 by solving their immediate problems while building a scalable system for the long run.",
     "image": "/features/undraw_product_iteration_kjok.svg"
   },
   {
     "title": "Modern Tech Stack",
-    "description": "We have expertise in building web and mobile apps using React, React Native, Angular, Python, Django, GraphQL, PostgreSQL etc.",
-    "image": "/features/noun_3d modeling_1885342.svg"
+    "description": "We have expertise in building web and mobile apps using React, React Native, Angular, Python, Django, GraphQL, PostgreSQL, etc.",
+    "image": "/features/undraw_modern_design_v3wv.svg"
   }
 ]
